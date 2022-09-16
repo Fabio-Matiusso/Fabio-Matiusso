@@ -20,6 +20,6 @@ I'm Fabio Del Col Matiusso, a Front End developer focused on ReactJS and passion
 I'm currently working on personal projects using ReactJs to improve my skills and get my first job in the field.
 - :hourglass_flowing_sand:  Exploring best practices in front end development.
 - :rocket: I am always willing to face new challenges in order to improve my skills and deliver solid results for my career and for the company.
-- :man_technologist: See my linkedin: <a href = "https://www.linkedin.com/in/f%C3%A1bio-del-col-matiusso-49512a229/">Fabio Del Col Matiusso</a>
+- :man_technologist: See my linkedin: <a href = "https://www.linkedin.com/in/fabiomatiusso/">Fabio Del Col Matiusso</a>
 <br>
 
